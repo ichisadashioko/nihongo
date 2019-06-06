@@ -15,13 +15,9 @@ At the end of the last chapter, we learned how to set expectations by seeking or
 
 ## Example
 
-1. おすしは、食べる？
+1. おすしは、食べる？ (Do you eat sushi?)
 
-Do you eat sushi?
-
-1. おすしは、食べるの？ 
-
-You eat sushi? (seeking explanation why he/she eats sushi as opposed to a neutral question "Do you eat sushi?")
+1. おすしは、食べるの？ (You eat sushi? (seeking explanation why he/she eats sushi as opposed to a neutral question "Do you eat sushi?"))
 
 **I love sushi!**
 
