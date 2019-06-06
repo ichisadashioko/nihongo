@@ -147,7 +147,7 @@ The list below is by no means complete and only covers the more common words for
     </tbody>
 </table>
 
-**Smith's parents**
+**Vocabulary**
 
 1. <ruby>山<rt>やま</rt>田<rt>だ</rt> - Yamada (surname)
 1. <ruby>アジア<rt></rt>人<rt>じん</rt></ruby> - Asian (person)
@@ -160,6 +160,8 @@ The list below is by no means complete and only covers the more common words for
 1. <ruby>父<rt>ちち</rt></ruby> - (one's own) father
 1. <ruby>アメリカ<rt></rt>人<rt>じん</rt></ruby> - American (person)
 1. なるほど (exp) - I see
+
+**Smith's parents**
 
 山田 : スミスさんは、アジア人ですか。
 
