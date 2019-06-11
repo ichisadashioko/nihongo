@@ -46,7 +46,7 @@ It is important to remember the order the modification takes place. You don't wa
 
 リー : ジェユン
 
-スミス : ...リー君ね。
+スミス : ・・・リー君ね。
 
 リー : え、なんで？
 

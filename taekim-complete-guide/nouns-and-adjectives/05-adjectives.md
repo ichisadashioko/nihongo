@@ -68,4 +68,4 @@ You can easily describe a noun by placing the adjective directly in front of the
 
 スミス : <ruby>あっ、<rt></rt>山本<rt>やまもと</rt>先生<rt>せんせい</rt>も、まあまあかっこいいですよ！</ruby>
 
-<ruby>山本<rt>やまもと</rt></ruby> : ...ありがとうございます。
+<ruby>山本<rt>やまもと</rt></ruby> : ・・・ありがとうございます。

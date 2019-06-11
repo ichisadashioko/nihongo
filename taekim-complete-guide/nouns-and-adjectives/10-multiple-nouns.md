@@ -38,7 +38,7 @@ The `と` particle is used to group multiple nouns together in a complete list.
 
 **田中** : <ruby>スミスさんは、<rt></rt>面<rt>おも</rt>白<rt>しろ</rt>いですね。<rt></rt>本<rt>ほん</rt>当<rt>とう</rt>の<rt></rt>親<rt>おや</rt>と<rt></rt>子<rt>こ</rt>供<rt>ども</rt>じゃないですから<rt></rt>大丈夫<rt>だいじょうぶ</rt>ですよ。</ruby>
 
-**スミス** : でも...
+**スミス** : でも・・・
 
 ## `や` and `とか` partial list
 
