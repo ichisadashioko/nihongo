@@ -13,12 +13,15 @@ word,html_ruby,ローマ字,meaning
 会話,会<rt>かい</rt>話<rt>わ</rt>,kaiwa,conversation
 俺,俺<rt>おれ</rt>,ore,me; myself
 元気,元<rt>げん</rt>気<rt>き</rt>,genki,
+全然,全<rt>ぜん</rt>然<rt>ぜん</rt>,zenzen,not at all
+出る,出<rt>で</rt>る,deru,to come out
 前,前<rt>まえ</rt>,mae,in front
 友達,友<rt>とも</rt>達<rt>だち</rt>,tomodachi,friend
 可愛い,可<rt>か</rt>愛<rt>わい</rt>い,kawaii,cute
 右,右<rt>みぎ,migi,right
 名前,名<rt>な</rt>前<rt>まえ</rt>,namae,name
 四年生,四<rt>よ</rt>年<rt>ねん</rt>生<rt>せい</rt>,yonensei,fourth year; senior
+変える,変<rt>か</rt>える,kaeru,to change
 大好き,大<rt>だい</rt>好<rt>す</rt>き,daisuki,
 大学,大<rt>だい</rt>学<rt>がく</rt>,daigaku,college
 女,女<rt>おんな</rt>,onna,woman
@@ -27,22 +30,34 @@ word,html_ruby,ローマ字,meaning
 子,子<rt>こ</rt>,ko,child
 学校,学<rt>がっ</rt>校<rt>こう</rt>,gakkou,school
 宿題,宿<rt>しゅく</rt>題<rt>だい</rt>,shukudai,homework
+寝る,寝<rt>ね</rt>る,neru,to sleep
 専攻,専<rt>せん</rt>攻<rt>こう</rt>,senkou,major
 小学,小<rt>しょう</rt>学<rt>がく</rt>,shougaku,elementary school
 左,左<rt>ひだり</rt>,hidari,left
+帰る,帰<rt>かえ</rt>る,kaeru,to go home
+待つ,待<rt>ま</rt>つ,matsu,to wait
 後ろ,後<rt>うし</rt>ろ,ushiro,behind
 忙しい,忙<rt>いそが</rt>しい,isogashii,busy
+思う,思<rt>おも</rt>う,omou,to think
 手,手<rt>て</rt>,te,hand
 手紙,手<rt>て</rt>紙<rt>がみ</rt>,tegami,letter
+教える,教<rt>おし</rt>える,oshieru,to teach; to inform
 日本人,日<rt>に</rt>本<rt>ほん</rt>人<rt>じん</rt>,Japanese person,
 日本語,日<rt>に</rt>本<rt>ほん</rt>語<rt>ご</rt>,nihongo,Japanese language
 明日,明日<rt>あした</rt>,ashita,tomorrow
 映画,映<rt>えい</rt>画<rt>が</rt>,eiga,movie
 映画館,映<rt>えい</rt>画<rt>が</rt>館<rt>かん</rt>,eigakan,movie theatre
 書く,書<rt>か</rt>く,kaku,to write
+最近,最<rt>さい</rt>近<rt>きん</rt>,saikin,recent; lately
 本,本<rt>ほん</rt>,hon,book
+本当,本<rt>ほん</rt>当<rt>とう</rt>,hontou,truth; reality
+来る,来<rt>く</rt>る,kuru,to come
+死ぬ,死<rt>し</rt>ぬ,shinu,to die
+泳ぐ,泳<rt>およ</rt>ぐ,oyogu,to swim
 生,生<rt>なま</rt>,nama,raw
+番組,番<rt>ばん</rt>組<rt>ぐみ</rt>,bangumi,TV program
 相変わらず,相<rt>あい</rt>変<rt>か</rt>わらず,aikawarazu,as ever; as usual; the same; still
+着る,着<rt>き</rt>る,kiru,to wear
 私,私<rt>わたし</rt>,watashi,I
 立つ,立<rt>た</rt>つ,tatsu,to stand
 簡単,簡<rt>かん</rt>単<rt>たん</rt>,kantan,easy
@@ -51,6 +66,7 @@ word,html_ruby,ローマ字,meaning
 経済学,経<rt>けい</rt>済<rt>ざい</rt>学<rt>がく</rt>,keizaigaku,economics
 絶対,絶<rt>ぜっ</rt>対<rt>たい</rt>,zettai,
 練習,練<rt>れん</rt>習<rt>しゅう</rt>,renshuu,practice
+考える,考<rt>かんが</rt>える,kangaeru,to think
 聞く,聞<rt>き</rt>く,kiku,to hear
 行く,行<rt>い</rt>く,iku,to go
 見る,見<rt>み</rt>る,miru,to see;to watch
@@ -58,6 +74,8 @@ word,html_ruby,ローマ字,meaning
 話す,話<rt>はな</rt>す,hanasu,to talk
 読む,読<rt>よ</rt>む,yomu,to read
 読書,読<rt>どく</rt>書<rt>しょ</rt>,dokusho,reading
+買う,買<rt>か</rt>う,kau,to buy
+起きる,起<rt>お</rt>きる,okiru,to wake; to occur
 趣味,趣<rt>しゅ</rt>味<rt>み</rt>,shumi,hobby; hobbies; interests
 送る,送<rt>おく</rt>る,okuru,to send
 遊ぶ,遊<rt>あそ</rt>ぶ,asobu,to play
@@ -69,5 +87,6 @@ word,html_ruby,ローマ字,meaning
 面白い,面<rt>おも</rt>白<rt>しろ</rt>い,omoshiroi,interesting; funny
 食べる,食<rt>た</rt>べる,taberu,to eat
 食べ物,食<rt>た</rt>べ<rt></rt>物<rt>もの</rt>,tabemono,food
+飲む,飲<rt>の</rt>む,nomu,to drink
 高校,高<rt>こう</rt>校<rt>こう</rt>,koukou,high school
 魚,魚<rt>さかな</rt>,sakana,fish
