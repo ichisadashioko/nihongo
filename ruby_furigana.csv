@@ -8,7 +8,10 @@ word,html_ruby,ローマ字,meaning
 中学,中<rt>ちゅう</rt>学<rt>がく</rt>,chuugaku,middle school
 乗る,乗<rt>の</rt>る,noru,to ride
 二年生,二<rt>に</rt>年<rt>ねん</rt>生<rt>せい</rt>,ninensei,second year; sophomore
+今年,今年<rt>ことし</rt>,kotoshi,this year
 仕事,仕<rt>し</rt>事<rt>ごと</rt>,shigoto,work
+代,代<rt>だい</rt>,dai,charge; cost; fare
+休み,休<rt>やす</rt>み,yasumi,vacation
 会う,会<rt>あ</rt>う,au,to meet
 会話,会<rt>かい</rt>話<rt>わ</rt>,kaiwa,conversation
 俺,俺<rt>おれ</rt>,ore,me; myself
@@ -22,6 +25,7 @@ word,html_ruby,ローマ字,meaning
 名前,名<rt>な</rt>前<rt>まえ</rt>,namae,name
 四年生,四<rt>よ</rt>年<rt>ねん</rt>生<rt>せい</rt>,yonensei,fourth year; senior
 変える,変<rt>か</rt>える,kaeru,to change
+大変,大<rt>たい</rt>変<rt>へん</rt>,taihen,tough; rough
 大好き,大<rt>だい</rt>好<rt>す</rt>き,daisuki,
 大学,大<rt>だい</rt>学<rt>がく</rt>,daigaku,college
 女,女<rt>おんな</rt>,onna,woman
@@ -29,6 +33,7 @@ word,html_ruby,ローマ字,meaning
 好き,好<rt>す</rt>き,suki,likable; desirable
 子,子<rt>こ</rt>,ko,child
 学校,学<rt>がっ</rt>校<rt>こう</rt>,gakkou,school
+家族,家<rt>か</rt>族<rt>ぞく</rt>,family,
 宿題,宿<rt>しゅく</rt>題<rt>だい</rt>,shukudai,homework
 寝る,寝<rt>ね</rt>る,neru,to sleep
 専攻,専<rt>せん</rt>攻<rt>こう</rt>,senkou,major
@@ -47,6 +52,8 @@ word,html_ruby,ローマ字,meaning
 明日,明日<rt>あした</rt>,ashita,tomorrow
 映画,映<rt>えい</rt>画<rt>が</rt>,eiga,movie
 映画館,映<rt>えい</rt>画<rt>が</rt>館<rt>かん</rt>,eigakan,movie theatre
+春,春<rt>はる</rt>,haru,spring
+昼ご飯,昼<rt>ひる</rt>ご<rt></rt>飯<rt>はん</rt>,hirugohan,lunch
 書く,書<rt>か</rt>く,kaku,to write
 最近,最<rt>さい</rt>近<rt>きん</rt>,saikin,recent; lately
 本,本<rt>ほん</rt>,hon,book
@@ -56,6 +63,7 @@ word,html_ruby,ローマ字,meaning
 泳ぐ,泳<rt>およ</rt>ぐ,oyogu,to swim
 生,生<rt>なま</rt>,nama,raw
 番組,番<rt>ばん</rt>組<rt>ぐみ</rt>,bangumi,TV program
+皆さん,皆<rt>みな</rt>さん,minasan,everybody
 相変わらず,相<rt>あい</rt>変<rt>か</rt>わらず,aikawarazu,as ever; as usual; the same; still
 着る,着<rt>き</rt>る,kiru,to wear
 私,私<rt>わたし</rt>,watashi,I
@@ -85,8 +93,11 @@ word,html_ruby,ローマ字,meaning
 隣,隣<rt>となり</rt>,tonari,next to
 難しい,難<rt>むずか</rt>しい,muzukashii,difficult
 面白い,面<rt>おも</rt>白<rt>しろ</rt>い,omoshiroi,interesting; funny
+韓国,韓<rt>かん</rt>国<rt>こく</rt>,kankoku,South Korea
+飛行機,飛<rt>ひ</rt>行<rt>こう</rt>機<rt>き</rt>,hikouki,airplane
 食べる,食<rt>た</rt>べる,taberu,to eat
 食べ物,食<rt>た</rt>べ<rt></rt>物<rt>もの</rt>,tabemono,food
 飲む,飲<rt>の</rt>む,nomu,to drink
+高い,高<rt>たか</rt>い,takai,tall; expensive
 高校,高<rt>こう</rt>校<rt>こう</rt>,koukou,high school
 魚,魚<rt>さかな</rt>,sakana,fish
