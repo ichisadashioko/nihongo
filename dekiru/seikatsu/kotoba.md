@@ -18,7 +18,7 @@
 - <ruby>毎<rt>まい</rt>週<rt>しゅう</rt></ruby>
 - <ruby>終<rt>お</rt>わります</ruby>
 - <ruby>通<rt>かよ</rt>います</ruby> 【<ruby>通<rt>かよ</rt>う</ruby>】 - to attend; to go to (school, work, etc.)
-- ひきます 【ひく】 - 
+- ひきます 【ひく】 -
 - 休みます
 - <ruby>慣<rt>な</rt>れます</ruby> 【<ruby>慣<rt>な</rt>れる</ruby>】 - to get used to
 - <ruby>忘<rt>わす</rt>れます</ruby> 【<ruby>忘<rt>わす</rt>れる</ruby>】

@@ -13,7 +13,7 @@ __Vocabulary__
 __Example__
 
 - ピザは、好きですか。
-    
+
     As for pizza, do (you) like it?
 
 - どんなピザが好きですか。

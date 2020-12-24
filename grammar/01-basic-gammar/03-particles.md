@@ -79,4 +79,3 @@ __Example 1__
 The inclusion of `も` must be consistent with the answer. It would not make sense to say, "I am a student, and Tom is also not a student." Instead, use the `は` particle to make a break from the inclusion as seen in the next example.
 
 __Example 2__
-

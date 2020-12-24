@@ -130,7 +130,7 @@ __Vocabulary__
 1. <ruby>高<rt>たか</rt>い</ruby> (i-adj) - tall; expensive
 1. <ruby>帰<rt>かえ</rt>る</ruby> (u-verb) - to go home
 1. そう - so
-1. <ruby>大<rt>たい</rt>変<rt>へん</rt></ruby> (na-adj) - tough, 
+1. <ruby>大<rt>たい</rt>変<rt>へん</rt></ruby> (na-adj) - tough,
 
 __My family is in Korea__
 

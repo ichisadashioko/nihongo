@@ -1,6 +1,6 @@
 # [Desire and Volition](http://www.guidetojapanese.org/learn/complete/desire_volition)
 
-## To want to do 
+## To want to do
 
 In order to describe what someone or something wants to do, we must conjugate the verb into the `～たい` form. This is done by simply attaching `たい` to the verb stem. One important thing to note is that this conjugation changes the verb into essentially an i-adjective. This is because it's no longer an actual action but a description of what one wants to do. Therefore, you can do all the same conjugations on the `～たい` form as any other i-adjectives.
 
@@ -32,7 +32,7 @@ __Volitional form conjugation rules__
 1. __Exceptions:__
 
     `する` becomes `しよう`
-    
+
     `くる` becomes `こよう`
 
 __Vocabulary__
@@ -48,7 +48,7 @@ __Vocabulary__
 
 __I'm bored__
 
-ジョン 
+ジョン
 
 > <ruby>最<rt>さい</rt>近<rt>きん</rt>は、<rt></rt>暇<rt>ひま</rt>だな。</ruby>
 
